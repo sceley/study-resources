@@ -52,3 +52,6 @@
     - [win10使用ubuntu终端](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows?backURL=%2F#1)
 
     - [ubuntu美化成Ｍac Book](http://www.linuxidc.com/Linux/2016-06/131947.htm)
+## 翻墙
+
+- [蓝灯](https://www.19216811.la/dnwl/2393.html)
