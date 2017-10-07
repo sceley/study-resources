@@ -55,3 +55,9 @@
 ## 翻墙
 
 - [蓝灯](https://www.19216811.la/dnwl/2393.html)
+
+## 网站资源学习
+
+- [gitBook](https://www.gitbook.com/)
+
+- [js函数式编程](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
